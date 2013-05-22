@@ -128,4 +128,5 @@
                :alexandria
                :cl-irregsexp
                :trivial-backtrace
-               :parenscript))
+               :parenscript
+               :cl-fad))
